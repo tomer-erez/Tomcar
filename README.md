@@ -16,12 +16,14 @@ c. stopping at red lights and general obstacle avoiding
 here is the car i had,
 it only cost 15 dollars and steered with a DC motor:
 <img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/BasicCar.jpg" width="750" height="450" />
-![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/insideBasicCar.jpg)
-![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/wiringBasic.jpg)
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/insideBasicCar.jpg" width="750" height="450" />
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/wiringBasic.jpg" width="750" height="450" />
 
 so i modified the car by adding a servo motor, speed controller(l298n), winkers
 and a webcam. 
 this is how the new car looks:
-![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/side.jpg)
-![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/servo.jpg)
-![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/above.jpg)
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/servo.jpg" width="750" height="450" />
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/above.jpg" width="750" height="450" />
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/side.jpg" width="750" height="450" />
+
+
