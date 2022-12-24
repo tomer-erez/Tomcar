@@ -11,7 +11,9 @@ the car computer will be a raspbery pi 4.
 ## desired features:
 
 a. lane correction
+
 b. self parking
+
 c. stopping at red lights and general obstacle avoiding
 
 ## car building:
