@@ -21,8 +21,10 @@ it only cost 15 dollars and steered with a DC motor:
 
 so i modified the car by adding a servo motor, speed controller(l298n), winkers
 and a webcam. 
+
 this is how the new car looks:
-<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/servo.jpg" width="750" height="450" />
+
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/servo.jpg" width="750" height="650" />
 <img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/above.jpg" width="750" height="450" />
 <img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/side.jpg" width="750" height="450" />
 
