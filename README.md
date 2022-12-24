@@ -1,5 +1,8 @@
 # Tomcar
 
+## link to the youtube series:
+https://www.youtube.com/watch?v=FwyPuJN6wTc&list=PLo1DVsAdNmuNYzmEwUp0t3P4yKmGxNzvq&index=4
+
 ## GOAL:
 
 building a self driving mini-car based of a cheap and used RC car.
