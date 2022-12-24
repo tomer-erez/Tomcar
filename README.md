@@ -15,7 +15,7 @@ c. stopping at red lights and general obstacle avoiding
 
 here is the car i had,
 it only cost 15 dollars and steered with a DC motor:
-<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/BasicCar.jpg" width="800" height="600" />
+<img src="https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/BasicCar.jpg" width="750" height="450" />
 ![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/insideBasicCar.jpg)
 ![alt text](https://github.com/tomer-erez/Tomcar/blob/main/driving/uploaded/wiringBasic.jpg)
 
